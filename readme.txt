@@ -23,7 +23,7 @@ Built by the development team at: http://hiilite.com
 
 2) Download the latest from:
 
-https://wordpress.org/plugins/hiilite-creative-group-branding/
+https://github.com/pvigilante/hiilite-creative-group-branding
 
 3) Login to WordPress admin, click on Plugins / Add New / Upload, then upload the zip file you just downloaded.
 
